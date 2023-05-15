@@ -21,3 +21,6 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/yourprofile) and 
 Here are some of the skills I've acquired throughout my career:
 
 *
+
+
+![](https://komarev.com/ghpvc/?username=poojyanth)
