@@ -52,6 +52,5 @@
 <div align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=poojyanth&show_icons=true&theme=tokyonight&locale=en&layout=compact&count_private=true" align="center" /></div> 
 
 
-<p align="right">
  ![](https://komarev.com/ghpvc/?username=poojyanth)
-</p>
+
