@@ -2,19 +2,11 @@
  <img src="https://github.com/adivishnu-a/adivishnu-a/assets/95145136/70915d45-06dd-4673-9341-910d75d11ab2" alt="Hello World, I'm Adi!" />
 </p>
 
-<h3 align="center">I'm Adi, A passionate CS Undergrad student and developer from SRM University, AP 🚀</h3>
+<h3 align="center">I'm Poojyanth, I'm a Full Stack Web Developer, and I'm passionate about Web and Aritificial Intelligence.</h3>
 
-- 🌱 I’m currently studying **Computer Science and Engineering**
+- 📖 I’m a **Computer Science Undergrad** studying at **Indian Institute of Information Technology, SriCity**
 
-- 👨‍💻 All of my projects are available at [https://github.com/adivishnu-a](https://github.com/adivishnu-a)
-
-- 📫 How to reach me **adivishnu_avula@srmap.edu.in**
-
-- 📝 Know about my experiences [https://www.linkedin.com/in/adi-vishnu-avula/](https://www.linkedin.com/in/adi-vishnu-avula/)
-
-- 📃 My Resume in GitHub [https://github.com/adivishnu-a/git-cv](https://github.com/adivishnu-a/git-cv/blob/main/README.md)
-
-- 🍥 Talk to me about: Programming, Data Science, AI-ML, Anime
+- ⚒️ Find my work at [https://github.com/poojyanth](https://github.com/poojyanth)
 
 <h2 align="center">My Skillset</h2>
 <div align="center">  
