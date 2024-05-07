@@ -1,6 +1,4 @@
-<p align="center">
- <img src="https://github.com/adivishnu-a/adivishnu-a/assets/95145136/70915d45-06dd-4673-9341-910d75d11ab2" alt="Hello World, I'm Adi!" />
-</p>
+
 
 <h3 align="center">I'm Poojyanth, I'm a Full Stack Web Developer, and I'm passionate about Web and Aritificial Intelligence.</h3>
 
