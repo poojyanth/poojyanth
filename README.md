@@ -1,6 +1,6 @@
 <img src=https://raw.githubusercontent.com/poojyanth/poojyanth/main/Poojyanth%20Reddy.png alt="Poojyanth Reddy" style="margin-bottom: 5px;" />
 
-<h3 align="center">I'm Poojyanth, A passionate Full Stack Web Developer, ML enthusiast</h3>
+<h3 align="center">I'm Poojyanth, A passionate Full Stack Web Developer & AI/ML enthusiast</h3>
 
 - 📖 I’m a **Computer Science Undergrad** studying at **Indian Institute of Information Technology, SriCity**
 
