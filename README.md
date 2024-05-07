@@ -1,4 +1,4 @@
-
+<img src=https://raw.githubusercontent.com/poojyanth/poojyanth/main/Poojyanth%20Reddy.png alt="Poojyanth Reddy" style="margin-bottom: 5px;" />
 
 <h3 align="center">I'm Poojyanth, I'm a Full Stack Web Developer, and I'm passionate about Web and Aritificial Intelligence.</h3>
 
