@@ -20,25 +20,19 @@
 
 <h2 align="center">Connect With Me</h2> 
 <div align="center">
-<a href="https://github.com/adivishnu-a" target="_blank">
+<a href="https://github.com/poojyanth" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/adi-vishnu-avula" target="_blank">
+<a href="https://www.linkedin.com/in/poojyanthreddy/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://discordapp.com/users/882532728040460298" target="_blank">
+<a href="https://discordapp.com/users/762852655357493268" target="_blank">
 <img src=https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/adivishnu_avula" target="_blank">
+<a href="https://www.instagram.com/poojyanth_reddy/" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/adivishnu_avula" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/adivishnu" target="_blank">
-<img src=https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
-<a href="https://anilist.co/user/adi149/animelist" target="_blank">
+<a href="https://anilist.co/user/starlightIssi/" target="_blank">
 <img src=https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white alt=anilist style="margin-bottom: 5px;" />
 </a>
 </div>  
