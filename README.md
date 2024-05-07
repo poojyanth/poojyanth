@@ -50,3 +50,6 @@
 <div align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=poojyanth&show_icons=true&show_icons=true&theme=tokyonight&locale=en&count_private=true&include_all_commits=true" align="center" /></div>  
 <p></p>
 <div align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=poojyanth&show_icons=true&theme=tokyonight&locale=en&layout=compact&count_private=true" align="center" /></div> 
+
+
+![](https://komarev.com/ghpvc/?username=poojyanth)
