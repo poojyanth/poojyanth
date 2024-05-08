@@ -10,7 +10,7 @@
 <h2 align="center">My Skillset</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,blender,matlab,mongodb,graphql,mysql,tailwind,nodejs,jquery,npm,react,vite,ps,git,github,discord,jest,jenkins,postman,redis,redux,pytorch,tensorflow,sklearn,kubernetes,docker,figma,vercel,vscode" />
+    <img src="https://skillicons.dev/icons?i=c, cpp, py, java, html, css, js, react, jquery, tailwind, nodejs, npm, vite, vscode, mongodb, graphql, mysql, redis, jest, postman, git, github, discord, jenkins, matlab, pytorch, tensorflow, sklearn, docker, kubernetes, figma, vercel" />
   </a>
 </p>
 
