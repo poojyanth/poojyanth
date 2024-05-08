@@ -9,7 +9,7 @@
 <h2 align="center">My Skillset</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,blender,matlab,mongodb,mysql,nodejs,react,ps,git,github,discord,jest,jenkins,redis,redux,pytorch,tensorflowkubernetes,docker,figma&perline=8" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,blender,matlab,mongodb,mysql,nodejs,react,ps,git,github,discord,jest,jenkins,redis,redux,pytorch,tensorflow,kubernetes,docker,figma&perline=8" />
   </a>
 </p>
 
