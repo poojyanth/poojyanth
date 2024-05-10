@@ -7,12 +7,20 @@
 
 - ⚒️ Find my work at [https://github.com/poojyanth](https://github.com/poojyanth)
 
-<h2 align="center">My Skillset</h2>
+<!-- <h2 align="center">My Skillset</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,react,jquery,tailwind,nodejs,npm,vite,vscode,mongodb,graphql,mysql,redis,jest,postman,git,github,discord,jenkins,matlab,pytorch,tensorflow,sklearn,docker,kubernetes,figma,vercel" />
   </a>
-</p>
+</p> -->
+
+## Skill Set
+
+### Languages:
+| Python3 | C | JS | Solidity |
+|----------|----------|----------|-----|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>|
+
 
 <h2 align="center">Connect With Me</h2> 
 <div align="center">
