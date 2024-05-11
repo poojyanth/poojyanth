@@ -3,9 +3,14 @@
 <h3 >Hi There...! I'm Poojyanth </h3>
 <h4 >A Full Stack Web Developer & AI/ML enthusiast</h4>
 
-- 📖 I’m a **Computer Science Undergrad** studying at **Indian Institute of Information Technology, SriCity**
+📖 I’m a **Computer Science Undergrad** studying at **Indian Institute of Information Technology, SriCity**. 
 
-- ⚒️ Find my work at [https://github.com/poojyanth](https://github.com/poojyanth)
+## Currently Working on
+- [Under Water Aquatic Image Classification](https://github.com/poojyanth/UAIC)
+- [Face and Liveliness Detector](https://github.com/poojyanth/Face-Recognition-and-Liveliness-Detection)
+
+
+
 
 <h2 >Connect With Me</h2> 
 <div >
